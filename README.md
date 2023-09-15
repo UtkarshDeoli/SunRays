@@ -1,5 +1,5 @@
 # SunRays
 
 
-##what is it about ?
+## what is it about ?
  Traditional agriculture practices lack real-time monitoring and efficient operation on fields This leads to inefficiencies and low production levels. The purpose of the challenge is to design a solution that addresses this issue by utilizing internet of Things (IoT) technology and low-cost communication protocols. The proposed solution should integrate real-time monitoring of agriculture field data and weather conditions using Wi-Fi, cellular access, and long-distance communication protocols. The goal is to improve operational efficiency and production levels through various tasks such as irrigation practices, automated pest management, livestock monitoring, vehicle tracking, field, animal and bird tracks, and inventory monitoring. The solution will be based on loT technology and allow all these necessary tasks to be performed remotely via cellular communication protocols. Moreover, ML (Machine Learning) based techniques will be incorporated with image processing to maintain the proportion of three plant nutrients in order: nitrogen (N). phosphorus (P) and potassium (K) in the field. The objective is to design a sustainable loT solution that makes traditional agriculture practices more accessible and more efficient.
